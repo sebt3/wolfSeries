@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>vars.js</file>
+        <file>home.qml</file>
+        <file>session.qml</file>
+        <file>serie.qml</file>
+        <file>play.qml</file>
+        <file>settings.qml</file>
+        <file>wolfSeries_fr_FR.qm</file>
+        <file>icons/start.svg</file>
+        <file>icons/previous.svg</file>
+        <file>icons/pause.svg</file>
+        <file>icons/menu.svg</file>
+        <file>icons/delete.svg</file>
+        <file>icons/add.svg</file>
+        <file>sounds/pipe.wav</file>
+    </qresource>
+</RCC>
